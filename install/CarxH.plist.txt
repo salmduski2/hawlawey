@@ -1,0 +1,37 @@
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://archive.org/download/hack-car-x-highway-racing-kurdish-stor.tk-1.74.3-1658/Hack%20CarX%20Highway%20Racing%20%28kurdish-stor.tk%29_1.74.3_1658.ipa</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://archive.org/download/racing_202207/Racing.png</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>H</string>
+<key>kind</key>
+<string>software</string>
+<key>subtitle</key>
+<string>v1</string>
+<key>title</key>
+<string>Carx Highway racing Hack</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>

@@ -1,0 +1,37 @@
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://archive.org/download/shadow-fight-2-kurdish-stor.tk-2.19.0-1658749334/Shadow%20Fight%202%20-%20kurdish-stor.tk_2.19.0_1658749334.ipa</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://archive.org/download/shadow-2_202207/Shadow2.png</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>H</string>
+<key>kind</key>
+<string>software</string>
+<key>subtitle</key>
+<string>v1</string>
+<key>title</key>
+<string>Shadow Fight2 Hack</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>

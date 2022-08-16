@@ -1,0 +1,37 @@
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://archive.org/download/pmtdls-22-kurdish-stor.tk-9.12-1658587292/PMTDLS22%20-kurdish-stor.tk_9.12_1658587292.ipa</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://archive.org/download/dlss-22/Dlss22.png</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>science.xnu.undecimus</string>
+<key>kind</key>
+<string>software</string>
+<key>subtitle</key>
+<string>v1</string>
+<key>title</key>
+<string>DLS22 Hack</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
