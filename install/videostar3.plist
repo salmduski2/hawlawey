@@ -29,14 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.anas.videostar</string>
+				<string>com.kurdish.videostar</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>videostar Pro
-Channel @ikurdish_store</string>
+				<string>videostar Pro</string>
 			</dict>
 		</dict>
 	</array>
