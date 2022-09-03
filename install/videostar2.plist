@@ -17,25 +17,25 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-<string>https://app.kurd-source.com/img/videostar.png</string>
+<string>https://kurdish-stor.tk/img/videostar.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-<string>https://app.kurd-source.com/img/videostar.png</string>
+<string>https://kurdish-stor.tk/img/videostar.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kurdsource.videostar</string>
+				<string>tk.vii.videostar</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Videostar++</string>
+				<string>Videostar Hack</string>
 			</dict>
 		</dict>
 	</array>
